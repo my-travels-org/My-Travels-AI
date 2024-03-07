@@ -1,0 +1,102 @@
+﻿user_id,review_id,rate,money,purpose,place_type,climate,activities
+1,1,4,15000,Vacaciones,Playa,Húmedo,Turisticas
+2,2,5,7000,Vacaciones,Playa,Cálido,Turisticas
+3,3,5,15000,Vacaciones,Pueblo,Cálido,Turisticas
+4,4,5,300,Evento cultural,Pueblo,Cálido,Turisticas
+5,5,4,2500,Vacaciones,Selva,Húmedo,Turisticas
+6,6,5,4000,Visitar a la familia,Playa,Cálido,Turisticas
+7,7,5,5000,Voluntariado,Ciudad,Templado,Turisticas
+8,8,5,20000,Vacaciones,Playa,Cálido,Turisticas
+9,9,5,2000,Visitar a la familia,Ciudad,Húmedo,Turisticas
+10,10,3,2000,Vacaciones,Pueblo,Frío,Turisticas
+11,11,3,1000,Cumpleaños,Pueblo,Cálido,Gastronomicas
+12,12,4,20000,Vacaciones,Playa,Cálido,Turisticas
+13,13,4,10000,Vacaciones,Ciudad,Seco,Turisticas
+14,14,5,2000,Vacaciones,Ciudad,Lluvioso,Fiesta
+15,15,5,4000,Vacaciones,Ciudad,Húmedo,Fiesta
+16,16,5,5000,Visitar a la familia,Ciudad,Cálido,Turisticas
+17,17,4,6000,Vacaciones,Ciudad,Frío,Culturales
+18,18,5,20000,Visitar a la familia,Pueblo,Soleado,Culturales
+19,19,4,4000,Visitar a la familia,Ciudad,Cálido,Turisticas
+20,20,5,17000,Vacaciones,Ciudad,Templado,Turisticas
+21,21,3,2000,Vacaciones,Pueblo,Seco,Turisticas
+22,22,1,3600,Vacaciones,Selva,Lluvioso,Gastronomicas
+23,23,1,1800,Visitar a la familia,Pueblo,Cálido,Fiesta
+24,24,5,500,Vacaciones,Pueblo,Templado,Gastronomicas
+25,25,4,200,Religion,Pueblo,Húmedo,Religiosas
+26,26,4,1000,Evento cultural,Ciudad,Lluvioso,Culturales
+27,27,5,3000,Vacaciones,Playa,Lluvioso,Turisticas
+28,28,5,1000,Vacaciones,Bosque,Templado,Turisticas
+29,29,4,2500,Vacaciones,Pueblo,Cálido,Turisticas
+1,30,5,4000,Visitar a la familia,Ciudad,Cálido,Naturales
+2,31,5,50000,Vacaciones,Playa,Cálido,Turisticas
+3,32,4,3500,Vacaciones,Ciudad,Soleado,Turisticas
+4,33,5,4000,Vacaciones,Playa,Cálido,Turisticas
+5,34,5,25000,Vacaciones,Playa,Cálido,Turisticas
+6,35,3,15000,Vacaciones,Pueblo,Frío,Turisticas
+7,36,3,50000,Vacaciones,Desierto,Húmedo,Fiesta
+8,37,5,10000,Visitar a la familia,Pueblo,Cálido,Turisticas
+9,38,4,12000,Vacaciones,Playa,Cálido,Turisticas
+10,39,5,3700,Visitar a la familia,Ciudad,Templado,Naturales
+11,40,5,15000,Vacaciones,Selva,Cálido,Turisticas
+12,41,5,3500,Vacaciones,Rio,Cálido,Turisticas
+13,42,5,2000,Vacaciones,Ciudad,Cálido,Turisticas
+14,43,2,20000,Vacaciones,Pueblo,Húmedo,Turisticas
+15,44,3,5000,Vacaciones,Playa,Cálido,Turisticas
+16,45,4,2500,Vacaciones,Pueblo,Húmedo,Turisticas
+17,46,5,200,Evento deportivo,Ciudad,Seco,Turisticas
+18,47,5,5000,Vacaciones,Playa,Cálido,Turisticas
+19,48,5,15000,Vacaciones,Bosque,Húmedo,Turisticas
+20,49,4,1050,Vacaciones,Playa,Cálido,Turisticas
+21,50,4,15000,Vacaciones,Playa,Soleado,Turisticas
+22,51,5,5000,Vacaciones,Playa,Cálido,Turisticas
+23,52,5,2000,Vacaciones,Ciudad,Cálido,Turisticas
+24,53,5,2000,Evento deportivo,Bosque,Seco,Turisticas
+25,54,4,10000,Vacaciones,Playa,Cálido,Turisticas
+26,55,5,35000,Vacaciones,Playa,Húmedo,Turisticas
+27,56,5,10000,Vacaciones,Playa,Cálido,Turisticas
+28,57,5,3000,Visitar a la familia,Ciudad,Cálido,Turisticas
+29,58,4,2300,Vacaciones,Pueblo,Cálido,Turisticas
+1,59,5,5000,Vacaciones,Playa,Cálido,Turisticas
+2,60,5,15000,Vacaciones,Playa,Cálido,Turisticas
+3,61,4,9000,Vacaciones,Ciudad,Cálido,Fiesta
+4,62,5,10000,Vacaciones,Desierto,Cálido,Turisticas
+5,63,5,12000,Visitar a la familia,Ciudad,Cálido,Turisticas
+6,64,5,6000,Vacaciones,Playa,Cálido,Turisticas
+7,65,5,6000,Vacaciones,Playa,Cálido,Turisticas
+8,66,5,8500,Vacaciones,Playa,Cálido,Culturales
+30,67,5,4000,Vacaciones,Playa,Cálido,Turisticas
+30,68,5,50000,Vacaciones,Playa,Cálido,Turisticas
+30,69,4,3000,Vacaciones,Playa,Cálido,Turisticas
+30,70,5,5000,Vacaciones,Selva,Cálido,Turisticas
+30,71,5,15000,Vacaciones,Playa,Cálido,Turisticas
+30,72,4,8000,Vacaciones,Playa,Húmedo,Turisticas
+30,73,5,3000,Vacaciones,Bosque,Frío,Turisticas
+30,74,5,6000,Vacaciones,Pueblo,Frío,Turisticas
+1,75,5,2000,Vacaciones,Pueblo,Húmedo,Turisticas
+2,76,5,10000,Vacaciones,Playa,Húmedo,Turisticas
+3,77,4,45000,Vacaciones,Playa,Cálido,Turisticas
+4,78,5,500,Visitar a la familia,Ciudad,Templado,Fiesta
+5,79,5,500,Vacaciones,Cascadas,Húmedo,Turisticas
+6,80,4,3000,Vacaciones,Pueblo,Húmedo,Religiosas
+7,81,4,10000,Vacaciones,Playa,Cálido,Turisticas
+8,82,5,4000,Vacaciones,Bosque,Cálido,Turisticas
+9,83,4,25000,Vacaciones,Desierto,Cálido,Turisticas
+10,84,4,3000,Vacaciones,Bosque,Frío,Turisticas
+11,85,5,8000,Vacaciones,Playa,Soleado,Turisticas
+12,86,5,10000,Visitar a la familia,Playa,Cálido,Turisticas
+13,87,5,1300,Vacaciones,Bosque,Cálido,Turisticas
+14,88,4,700,Vacaciones,Ciudad,Seco,Culturales
+15,89,5,9000,Vacaciones,Playa,Cálido,Turisticas
+16,90,5,20000,Vacaciones,Playa,Soleado,Turisticas
+17,91,5,50000,Vacaciones,Playa,Húmedo,Turisticas
+18,92,2,500,Vacaciones,Ciudad,Cálido,Turisticas
+19,93,4,25000,Vacaciones,Playa,Cálido,Turisticas
+20,94,5,4000,Visitar a la familia,Bosque,Húmedo,Naturales
+21,95,5,1600,Vacaciones,Pueblo,Templado,Turisticas
+22,96,5,5999,Vacaciones,Playa,Soleado,Turisticas
+23,97,4,6000,Visitar a la familia,Ciudad,Templado,Culturales
+24,98,5,10000,Vacaciones,Playa,Soleado,Turisticas
+25,99,5,7000,Vacaciones,Playa,Cálido,Turisticas
+26,100,5,15000,Vacaciones,Playa,Cálido,Turisticas
+27,101,4,1500,Vacaciones,Pueblo,Soleado,Turisticas
