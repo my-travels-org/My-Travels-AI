@@ -1,5 +1,4 @@
 id,user_id,review_id,rate,money,purpose,place_type,climate,activities
-0,1,1,4,15000.0,Vacaciones,Playa,Húmedo,Turisticas
 1,2,2,5,7000.0,Vacaciones,Playa,Cálido,Turisticas
 2,3,3,5,15000.0,Vacaciones,Pueblo,Cálido,Turisticas
 3,4,4,5,300.0,Evento cultural,Pueblo,Cálido,Turisticas
@@ -9,18 +8,6 @@ id,user_id,review_id,rate,money,purpose,place_type,climate,activities
 7,8,8,5,20000.0,Vacaciones,Playa,Cálido,Turisticas
 8,9,9,5,2000.0,Visitar a la familia,Ciudad,Húmedo,Turisticas
 9,10,10,3,2000.0,Vacaciones,Pueblo,Frío,Turisticas
-10,11,11,3,1000.0,Cumpleaños,Pueblo,Cálido,Gastronomicas
-11,12,12,4,20000.0,Vacaciones,Playa,Cálido,Turisticas
-12,13,13,4,10000.0,Vacaciones,Ciudad,Seco,Turisticas
-13,14,14,5,2000.0,Vacaciones,Ciudad,Lluvioso,Fiesta
-14,15,15,5,4000.0,Vacaciones,Ciudad,Húmedo,Fiesta
-15,16,16,5,5000.0,Visitar a la familia,Ciudad,Cálido,Turisticas
-16,17,17,4,6000.0,Vacaciones,Ciudad,Frío,Culturales
-17,18,18,5,20000.0,Visitar a la familia,Pueblo,Soleado,Culturales
-18,19,19,4,4000.0,Visitar a la familia,Ciudad,Cálido,Turisticas
-19,20,20,5,17000.0,Vacaciones,Ciudad,Templado,Turisticas
-20,21,21,3,2000.0,Vacaciones,Pueblo,Seco,Turisticas
-21,22,22,1,3600.0,Vacaciones,Selva,Lluvioso,Gastronomicas
 22,23,23,1,1800.0,Visitar a la familia,Pueblo,Cálido,Fiesta
 23,24,24,5,500.0,Vacaciones,Pueblo,Templado,Gastronomicas
 24,25,25,4,200.0,Religion,Pueblo,Húmedo,Religiosas
@@ -34,13 +21,10 @@ id,user_id,review_id,rate,money,purpose,place_type,climate,activities
 32,4,33,5,4000.0,Vacaciones,Playa,Cálido,Turisticas
 33,5,34,5,25000.0,Vacaciones,Playa,Cálido,Turisticas
 34,6,35,3,15000.0,Vacaciones,Pueblo,Frío,Turisticas
-35,7,36,3,50000.0,Vacaciones,Desierto,Húmedo,Fiesta
 36,8,37,5,10000.0,Visitar a la familia,Pueblo,Cálido,Turisticas
 37,9,38,4,12000.0,Vacaciones,Playa,Cálido,Turisticas
 38,10,39,5,3700.0,Visitar a la familia,Ciudad,Templado,Naturales
-39,11,40,5,15000.0,Vacaciones,Selva,Cálido,Turisticas
 40,12,41,5,3500.0,Vacaciones,Rio,Cálido,Turisticas
-41,13,42,5,2000.0,Vacaciones,Ciudad,Cálido,Turisticas
 42,14,43,2,20000.0,Vacaciones,Pueblo,Húmedo,Turisticas
 43,15,44,3,5000.0,Vacaciones,Playa,Cálido,Turisticas
 44,16,45,4,2500.0,Vacaciones,Pueblo,Húmedo,Turisticas
@@ -100,4 +84,3 @@ id,user_id,review_id,rate,money,purpose,place_type,climate,activities
 98,25,99,5,7000.0,Vacaciones,Playa,Cálido,Turisticas
 99,26,100,5,15000.0,Vacaciones,Playa,Cálido,Turisticas
 100,27,101,4,1500.0,Vacaciones,Pueblo,Soleado,Turisticas
-101,5,102,4,2500.0,Vacaciones,Selva,Húmedo,Turistica
