@@ -43,7 +43,13 @@ async def discover(id:int):
     values = await kmeans_discover(id)
 
     return values
+    
+@app.get("/kmeans/getAll")
+async def getAllData():
 
+    values = await getAll()
+
+    return values
 
 async def kmeans(id):
     ### IMPORTAR LOS DATOS Y PREPARAR LOS DATASET
@@ -183,6 +189,15 @@ def deleteRow(review_id):
         dataset.to_csv("MyTravelsdata-aws-final_copy.csv", index=False)
     else:
         print("nada")
+
+async def getAll():
+    dataset =pd.read_csv("MyTravelsdata-aws-final.csv")
+    values = dataset.values
+    return values.tolist()
+
+
+
+
 
 
 #function get id creada, usala para borrarfila y editarcolumna
